@@ -1,4 +1,4 @@
-#  Repository title
+#  Experiments with Latin BERT models for deriving contextual embeddings
 
 ---
 ## Authors
